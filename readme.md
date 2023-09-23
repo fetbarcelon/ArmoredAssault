@@ -9,7 +9,7 @@ About Welcome to the heart-pounding world of Armored Assault, an action-packed s
 Load the project in Unreal
 
 ## Download the build :video_game:
-Please use the following link to download my game (zip game armored assault))[https://drive.google.com/drive/folders/17JuhI_QsN50VHhRnlGmaWtHnzkFNfCQh?usp=drive_link]
+Please use the following link to download my game (zip game armored assault)[https://drive.google.com/drive/folders/17JuhI_QsN50VHhRnlGmaWtHnzkFNfCQh?usp=drive_link]
         
         
 ## Control :video_game: 
