@@ -1,5 +1,5 @@
 # Armored Assault
-About Welcome to the heart-pounding world of Armored Assault, an action-packed shooting game that will push your skills and reflexes to the limit.
+Welcome to the heart-pounding world of Armored Assault, an action-packed shooting game that will push your skills and reflexes to the limit.
 
 
 <p align="center"><img src="./Media/1.png" width="50%" height="50%"></p>
