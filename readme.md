@@ -7,10 +7,6 @@ Welcome to the heart-pounding world of Armored Assault, an action-packed shootin
 # Setup
 
 Load the project in Unreal
-
-## Download the project:
-Contact me: fetbarcelon@gmail.com
-        
         
 ## Control :video_game: 
 
@@ -21,4 +17,5 @@ Contact me: fetbarcelon@gmail.com
 - ESC - Quit
 - space bar - roll  
 
-
+## Download the project:
+Contact me: fetbarcelon@gmail.com
